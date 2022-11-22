@@ -11,9 +11,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ckalgos/fut-auto-buyer.git"
+    "url": "https://github.com/DevFRpyjs/fut-auto-buyer.git"
   },
-  "author": "Ck Algos",
+  "author": "DevFRpyjs",
   "license": "ISC",
   "dependencies": {
     "webpack": "^5.47.1"
