@@ -22,6 +22,12 @@ export const cssOverride = () => {
     width: 100%;
     padding: 10px;
   }
+  .ut-hub-messages-tile-view.tile.col-1-1 {
+    display: none!important;
+  }
+  .follow {
+    display: none;
+  }
   .buyer-settings-wrapper {
     display: flex; 
     flex-wrap: wrap; 
