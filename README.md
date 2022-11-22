@@ -48,7 +48,7 @@
 ## Installation
 
 - Ajouter l'extension Tamper Monkey à votre navigateur - [Link](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en-GB).
-- Cliquez sur fut-auto-buyer.user.js à partir de - [Latest Release](https://github.com/ckalgos/FUT-Auto-Buyer/releases/).
+- Cliquez sur fut-auto-buyer.user.js à partir de - [Latest Release](https://github.com/DevFRpyjs/FUT-Auto-Buyer/releases/).
 - Cliquez ensuite sur Installer/Mettre à jour.
 - Installation et démonstration - [Video Guide](https://www.youtube.com/watch?v=WATch4hxhtk).
 
@@ -247,7 +247,7 @@ Si vous cherchez de l'aide ou une nouvelle demande de fonctionnalité, rejoignez
 
 ## Contact
 
-Instagram - [@Instagram](https://www.instagram.com/ckalgos/) - ckalgos@gmail.com
+Instagram - [@Instagram](https://www.instagram.com/DevFRpyjs/) - DevFRpyjs@gmail.com
 
 Project Link: [https://github.com/DevFRpyjs/FUT-Auto-Buyer](https://github.com/DevFRpyjs/FUT-Auto-Buyer)
 
