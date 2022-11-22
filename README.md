@@ -247,8 +247,6 @@ Si vous cherchez de l'aide ou une nouvelle demande de fonctionnalité, rejoignez
 
 ## Contact
 
-Instagram - [@Instagram](https://www.instagram.com/DevFRpyjs/) - DevFRpyjs@gmail.com
-
 Project Link: [https://github.com/DevFRpyjs/FUT-Auto-Buyer](https://github.com/DevFRpyjs/FUT-Auto-Buyer)
 
 <!-- MARKDOWN LINKS & IMAGES -->
