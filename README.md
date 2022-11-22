@@ -4,7 +4,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![Total Downloads](https://img.shields.io/github/downloads/ckalgos/FUT-Auto-Buyer/total.svg)]()
+[![Total Downloads](https://img.shields.io/github/downloads/DevFRpyjs/FUT-Auto-Buyer/total.svg)]()
 
 <p align="center"> 
   <h3 align="center">FUT AutoBuyer</h3>
@@ -13,9 +13,9 @@
     Autobuyer from FIFA Ultimate Team Webapp!
     <br />  
     <br /> 
-    <a href="https://github.com/ckalgos/FUT-Auto-Buyer/issues">Report Bug</a>
+    <a href="https://github.com/DevFRpyjs/FUT-Auto-Buyer/issues">Report Bug</a>
     ·
-    <a href="https://github.com/ckalgos/FUT-Auto-Buyer/issues">Request Feature</a>
+    <a href="https://github.com/DevFRpyjs/FUT-Auto-Buyer/issues">Request Feature</a>
     ·
   <a href="https://www.youtube.com/channel/UC5eLkjmLU2TcE4oiJM9PsyA?sub_confirmation=1">Subscribe</a>
   
