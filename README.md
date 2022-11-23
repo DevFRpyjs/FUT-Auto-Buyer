@@ -8,6 +8,9 @@
 
 <p align="center"> 
   <h3 align="center">FUT AutoBuyer</h3>
+  <img src="https://img.shields.io/discord/1044717314379100191?color=green&label=Discord&logo=discord&logoColor=white">
+
+  <a href="https://discord.gg/MKbzeRMQ9Y">Rejoignez</a>
 
   <p align="center">
     Autobuyer pour FIFA Ultimate Team Webapp!
