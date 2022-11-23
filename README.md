@@ -8,20 +8,21 @@
 
 <p align="center"> 
   <h3 align="center">FUT AutoBuyer</h3>
-  <img src="https://img.shields.io/discord/1044717314379100191?color=green&label=Discord&logo=discord&logoColor=white">
-
-  <a href="https://discord.gg/MKbzeRMQ9Y">Rejoignez</a>
 
   <p align="center">
     Autobuyer pour FIFA Ultimate Team Webapp!
     <br />  
     <br /> 
-    <a href="https://github.com/DevFRpyjs/FUT-Auto-Buyer/issues">Report Bug</a>
+    <a href="https://github.com/DevFRpyjs/FUT-Auto-Buyer/issues">Signaler un bug</a>
     ·
-    <a href="https://github.com/DevFRpyjs/FUT-Auto-Buyer/issues">Request Feature</a>
-    ·
-  <a href="https://www.youtube.com/channel/UC5eLkjmLU2TcE4oiJM9PsyA?sub_confirmation=1">Subscribe</a>
-  
+    <a href="https://github.com/DevFRpyjs/FUT-Auto-Buyer/issues">Demander une fonctionnalité</a>
+  <hr>
+  <p align="center">
+  <a center" href="https://discord.gg/MKbzeRMQ9Y">
+    <img  src="https://img.shields.io/discord/1044717314379100191?color=green&label=Discord&logo=discord&logoColor=white">
+  </a>
+                                                                                                                         </p>
+  <hr>
   # À lire absolument :no_entry_sign:
   
   Cet outil est développé à des fins d'apprentissage pour démontrer comment quelqu'un peut développer un script pour modifier une application Web en automatisant des taches.
