@@ -19,7 +19,7 @@
   <hr>
   <p align="center">
   <a center" href="https://discord.gg/MKbzeRMQ9Y">
-    <img  src="https://img.shields.io/discord/1021490720420401303?style=for-the-badge&color=gold&label=Discord&logo=discord&logoColor=white">
+    <img  src="https://img.shields.io/discord/895353301011419147?style=for-the-badge&color=gold&label=Discord&logo=discord&logoColor=white">
   </a>
                                                                                                                          </p>
   <hr>
