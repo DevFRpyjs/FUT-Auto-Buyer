@@ -19,7 +19,7 @@
   <hr>
   <p align="center">
   <a center" href="https://discord.gg/MKbzeRMQ9Y">
-    <img  src="https://img.shields.io/discord/895353301011419147?style=for-the-badge&color=gold&label=Discord&logo=discord&logoColor=white">
+    <img  src="https://img.shields.io/discord/1021490720420401303?style=for-the-badge&color=gold&label=Discord&logo=discord&logoColor=white">
   </a>
                                                                                                                          </p>
   <hr>
@@ -237,7 +237,7 @@ Voir les [questions ouvertes] (https://github.com/DevFRpyjs/FUT-Auto-Buyer/issue
 
 Si vous cherchez de l'aide ou une nouvelle demande de fonctionnalité, rejoignez notre groupe discord.
 
-<img  src="https://img.shields.io/discord/895353301011419147?style=for-the-badge&color=gold&label=Discord&logo=discord&logoColor=white">
+<img  src="https://img.shields.io/discord/1021490720420401303?style=for-the-badge&color=gold&label=Discord&logo=discord&logoColor=white">
 
 <a href="https://discord.gg/MKbzeRMQ9Y">Rejoignez</a>
 
