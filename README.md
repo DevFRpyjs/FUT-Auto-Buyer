@@ -1,9 +1,11 @@
 # FUT AutoBuyer
+<p align="center">
+<a center href="https://t.me/FUT_FR">
+  <img src="https://img.shields.io/badge/Rejoignez%20notre%20groupe-Telegram-blue?style=for-the-badge&logo=telegram" alt="Rejoignez notre groupe Telegram">
+</a>
+</p>
+<hr>
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
 [![Total Downloads](https://img.shields.io/github/downloads/DevFRpyjs/FUT-Auto-Buyer/total.svg)]()
 
 <p align="center"> 
